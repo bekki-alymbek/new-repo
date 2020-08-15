@@ -1,2 +1,4 @@
-document.pdf 
-ignore.txt 
+*.pdf 
+*.txt 
+folder/
+.env
